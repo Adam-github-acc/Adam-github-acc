@@ -3,13 +3,10 @@
 
 - 🌱 I’m currently learning **FastAPI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Adam-github-acc](https://github.com/Adam-github-acc)
-
 - 💬 Ask me about **Docker, AWS and node.js**
 
-- 📄Linked in profile [https://www.linkedin.com/in/adamhallberg/](https://www.linkedin.com/in/adamhallberg/)
+- 📄LinkedIn profile [https://www.linkedin.com/in/adamhallberg/](https://www.linkedin.com/in/adamhallberg/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
