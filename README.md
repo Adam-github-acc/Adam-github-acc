@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam Hallberg</h1>
 <h3 align="center">A passionate frontend developer from Sweden</h3>
 
-- 🌱 I’m currently learning **FastAPI**
-
-- 💬 Ask me about **Docker, AWS and node.js**
-
 - 📄LinkedIn profile [https://www.linkedin.com/in/adamhallberg/](https://www.linkedin.com/in/adamhallberg/)
 
 <p align="left">
