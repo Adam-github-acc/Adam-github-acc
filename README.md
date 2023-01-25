@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Hallberg</h1>
-<h3 align="center">A passionate frontend developer from Sweden</h3>
+<h3 align="center">A passionate fullstack developer from Sweden</h3>
 
 - 📄LinkedIn profile [https://www.linkedin.com/in/adamhallberg/](https://www.linkedin.com/in/adamhallberg/)
 
